@@ -1,0 +1,179 @@
+{"aws":[
+
+    {"code":"HKA","eng":"Hong Kong International Airport^","chi":"香港國際機場^"},
+    
+    {"code":"SHA","eng":"Sha Tin","chi":"沙田"},
+    
+    {"code":"LFS","eng":"Lau Fau Shan","chi":"流浮山"},
+    
+    {"code":"TKL","eng":"Ta Kwu Ling","chi":"打鼓嶺"},
+    
+    {"code":"CPH","eng":"Ching Pak House(Tsing Yi)","chi":"青衣(青柏樓)"},
+    
+    {"code":"BHD","eng":"Bluff Head","chi":"黃麻角"},
+    
+    {"code":"HKS","eng":"Wong Chuk Hang","chi":"黃竹坑"},
+    
+    {"code":"WGL","eng":"Waglan Island","chi":"橫瀾島"},
+    
+    {"code":"GI","eng":"Green Island","chi":"青洲"},
+    
+    {"code":"JKB","eng":"Tseung Kwan O","chi":"將軍澳"},
+    
+    {"code":"CCH","eng":"Cheung Chau","chi":"長洲"},
+    
+    {"code":"KP","eng":"King's Park","chi":"京士柏"},
+    
+    {"code":"EPC","eng":"Ping Chau","chi":"平洲"},
+    
+    {"code":"PLC","eng":"Tai Mei Tuk","chi":"大美督"},
+    
+    {"code":"KAT","eng":"Kat O","chi":"吉澳"},
+    
+    {"code":"SLW","eng":"Sha Lo Wan","chi":"沙螺灣"},
+    
+    {"code":"SKG","eng":"Sai Kung","chi":"西貢"},
+    
+    {"code":"TAP","eng":"Tap Mun","chi":"塔門"},
+    
+    {"code":"TYW","eng":"Pak Tam Chung (Tsak Yue Wu)","chi":"北潭涌(鯽魚湖)"},
+    
+    {"code":"SEK","eng":"Shek Kong","chi":"石崗"},
+    
+    {"code":"TMS","eng":"Tai Mo Shan","chi":"大帽山"},
+    
+    {"code":"TC","eng":"Tate's Cairn","chi":"大老山"},
+    
+    {"code":"NLS","eng":"Nei Lak Shan","chi":"彌勒山"},
+    
+    {"code":"KLT","eng":"Kowloon City","chi":"九龍城"},
+    
+    {"code":"SE","eng":"Kai Tak","chi":"啟德"},
+    
+    {"code":"TP","eng":"Tai Po","chi":"大埔"},
+    
+    {"code":"NGP","eng":"Ngong Ping","chi":"昂坪"},
+    
+    {"code":"VP1","eng":"The Peak","chi":"山頂"},
+    
+    {"code":"PEN","eng":"Peng Chau","chi":"坪洲"},
+    
+    {"code":"SSH","eng":"Sheung Shui","chi":"上水"},
+    
+    {"code":"WLP","eng":"Wetland Park","chi":"濕地公園"},
+    
+    {"code":"CP1","eng":"Central Pier","chi":"中環碼頭"},
+    
+    {"code":"TWN","eng":"Tsuen Wan","chi":"荃灣"},
+    
+    {"code":"HKP","eng":"Hong Kong Park","chi":"香港公園"},
+    
+    {"code":"SKW","eng":"Shau Kei Wan","chi":"筲箕灣"},
+    
+    {"code":"TU1","eng":"Tuen Mun Children and Juvenile Home","chi":"屯門兒童及青少年院"},
+    
+    {"code":"KSC","eng":"Kau Sai Chau","chi":"滘西洲"},
+    
+    {"code":"HPV","eng":"Happy Valley","chi":"跑馬地"},
+    
+    {"code":"STY","eng":"Stanley","chi":"赤柱"},
+    
+    {"code":"WTS","eng":"Wong Tai Sin","chi":"黃大仙"},
+    
+    {"code":"KTG","eng":"Kwun Tong","chi":"觀塘"},
+    
+    {"code":"SSP","eng":"Sham Shui Po","chi":"深水埗"},
+    
+    {"code":"TY1","eng":"New Tsing Yi Station","chi":"新青衣站"},
+    
+    {"code":"KFB","eng":"Kadoorie Farm and Botanic Garden","chi":"嘉道理農場暨植物園"},
+    
+    {"code":"TW","eng":"Tsuen Wan Shing Mun Valley","chi":"荃灣城門谷"},
+    
+    {"code":"LAM","eng":"Lamma Island","chi":"南丫島"},
+    
+    {"code":"TUN","eng":"Tuen Mun Government Offices","chi":"屯門政府合署"},
+    
+    {"code":"SF","eng":"Star Ferry(Kowloon)","chi":"九龍天星碼頭"},
+    
+    {"code":"NP","eng":"North Point","chi":"北角"},
+    
+    {"code":"HUD","eng":"Shell Oil Depot","chi":"青衣蜆殼油庫"},
+    
+    {"code":"SHW","eng":"Siu Ho Wan","chi":"小蠔灣"},
+    {"code":"TME","eng":"Tap Mun East","chi":"塔門東"},
+    {"code":"TTC","eng":"Tai Tan Camp","chi":"大灘訓練營"},
+    
+    {"code":"TMT","eng":"Tai Mo To","chi":"大磨刀"},
+    
+    {"code":"YTS","eng":"Yi Tung Shan","chi":"二東山"},
+    
+    {"code":"SC","eng":"Sha Chau","chi":"沙洲"},
+    
+    {"code":"SW","eng":"Sham Wat","chi":"深屈"},
+    
+    {"code":"TO","eng":"Tai O","chi":"大澳"},
+    
+    {"code":"CCB","eng":"Cheung Chau Beach","chi":"長洲泳灘"},
+    
+    {"code":"TPK","eng":"Tai Po Kau","chi":"大浦滘"},
+    
+    {"code":"R12","eng":"Discovery Bay","chi":"愉景灣"},
+    
+    {"code":"R13","eng":"Lamma Island","chi":"南丫島警署"},
+    
+    {"code":"R21","eng":"Tap Shek Kok","chi":"踏石角"},
+    
+    {"code":"R22","eng":"Tsim Bei Tsui","chi":"尖鼻咀"},
+    
+    {"code":"R23","eng":"Tai Po Wong Shiu Chi Secondary School","chi":"大埔王肇枝中學"},
+    
+    {"code":"R24","eng":"Sha Tau Kok","chi":"沙頭角"},
+    
+    {"code":"R25","eng":"Pak Tam Au","chi":"北潭凹"},
+    
+    {"code":"R14","eng":"Cape D'Aguilar","chi":"鶴咀"},
+    
+    {"code":"R18","eng":"Sai Kung Sam Yuk Middle School","chi":"西貢三育中學"},
+    
+    {"code":"R27","eng":"Yuen Long","chi":"元朗"},
+    
+    {"code":"R28","eng":"Au Tau","chi":"凹頭"},
+    
+    {"code":"R29","eng":"Lok Ma Chau","chi":"落馬洲"},
+    
+    {"code":"R31","eng":"Tai Mei Tuk Pumping Station","chi":"大美督抽水站"},
+    
+    {"code":"PPC","eng":"Po Pin Chau","chi":"破邊洲"},
+    
+    {"code":"R19","eng":"Quarry Bay","chi":"&#39938;魚涌"},
+    
+    {"code":"R11","eng":"Ngong Ping Fresh Water Reservoir","chi":"昂坪食水配水庫"},
+    
+    {"code":"YYC","eng":"Yau Yat Chuen","chi":"又一村"},
+    
+    {"code":"WCN","eng":"Central Plaza","chi":"中環廣場"},
+    
+    {"code":"R30","eng":"Kat O Fisheries Research Sub-Station","chi":"吉澳漁業研究分站"},
+    
+    {"code":"CSW","eng":"Cheung Sha Wan","chi":"長沙灣"},
+    
+    {"code":"R32","eng":"Leung Shuen Wan","chi":"糧船灣"},
+    
+    {"code":"WB2","eng":"Automatic Weather Buoy No.2 (Hong Kong International Airport, West)","chi":"自動氣象浮標2號 (香港國際機場西面)"},
+    
+    {"code":"WB3","eng":"Automatic Weather Buoy No.3 (Hong Kong International Airport, East)","chi":"自動氣象浮標3號 (香港國際機場東面)"},
+    
+    {"code":"WB8","eng":"Automatic Weather Buoy No.8 (Hong Kong International Airport, East)","chi":"自動氣象浮標8號 (香港國際機場東面)"},
+    
+    {"code":"BR1","eng":"Beas River","chi":"上水雙魚河"},
+    
+    {"code":"SE1","eng":"Kai Tak Runway Park","chi":"啟德跑道公園"},
+    
+    {"code":"YLP","eng":"Yuen Long Park","chi":"元朗公園"},
+    
+    {"code":"TMR","eng":"Tuen Mun Reservior","chi":"屯門水庫"},
+    {"code":"CWB","eng":"Clear Water Bay","chi":"清水灣"}
+    
+    ]}
+    
