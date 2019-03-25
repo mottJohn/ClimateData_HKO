@@ -12,3 +12,5 @@ Currently, Hong Kong Observatory does not provide an API access to their data. M
     * Sample Data in tideData/
 4. seriousTyhoon.py
     * Code to summarize tide data for 6 most severe typhoon since Year 2000.
+
+#For how to run the Python program, please check [this Python_101](https://github.com/mottJohn/Python_101)
